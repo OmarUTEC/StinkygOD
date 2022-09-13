@@ -1,16 +1,34 @@
-### Hi there 👋
+<div alig="center">
+  <h1>Almendras Profile</h1>
 
-<!--
-**StinkygOD/StinkygOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### »»————-**🍕 Bienvenido a mi perfil de github** ————-««
+  - ##### **😎✨Hola!, Soy un chico de 16 años que le gusta la programación.😎✨**
+  - `𓆩★𓆪 HTML5 & CSS3 Beginner`
+  - `𓆩★𓆪 JavaScript Beginner `
+  - `𓆩★𓆪 Learning TypeScript`
 
-Here are some ideas to get you started:
+  - #### »»————-__😎 Mi Informacion__————-««
+  - __1. ✨ My Page Information -
+  [Stinkybreh Web](https://stinkybreh.xyz/)__
+  - __2. ✨ Discord Username - Strafes#7793__
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - # __✨Almendras✨__
+  <br>
+
+  - ### **🎭Github Stats🎭**
+
+  <a>
+    <img style="margin-left: 40px;"  height=140em
+      src="https://github-readme-stats.vercel.app/api?username=StinkygOD&count_private=true&show_icons=true&theme=dark&hide_border=false&hide_title=false"
+      alt="my github stats" />
+  </a>
+
+  - ### **⚔️Lenguajes mas usados⚔️**
+
+
+  <a href="https://github.com/reven208">
+    <img style="margin-left: 40px;" height=250em
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StinkygOD&title_color=ffffff&text_color=c9facc&icon_color=2bFc6a&bg_color=1d1f21"
+      alt="Lenguajes mas usados en repositiorios" />
+  </a>
